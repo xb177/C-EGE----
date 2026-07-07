@@ -1,5 +1,6 @@
 # C-EGE----
 基于C语言和EGE图形库设计的贪吃蛇小游戏
+
 #include <graphics.h>
 #include <stdio.h>
 #include <time.h>
